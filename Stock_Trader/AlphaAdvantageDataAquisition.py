@@ -1,10 +1,14 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 15 13:38:16 2018
-
-@author: ethanyoung
-"""
+# /**
+#  * @file AlphaAdvantageDataAquisition.py
+#  * 
+#  * @author SiGG (Project::Stock_Portfolio_Maker_Gradient_Descent)
+#  * @brief 
+#  * @version 0.1
+#  * @date 2022-11-17
+#  * 
+#  * @copyright Copyright (c) 2022
+#  * 
+#  */
 
 from alpha_vantage.timeseries import TimeSeries
 import sys
