@@ -209,7 +209,7 @@ double Backtest::btResults(double *results) {
 }
 
 
-void Backtest::calcPrevDayChange() {
+void Backtest::calcPrevDayChange() 
       cout << "Calc Prev Day Change" << endl;   
       map<string, Stock>::iterator st;  
       vector<tm *>::iterator date;   
